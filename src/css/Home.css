@@ -1,0 +1,5 @@
+.Home-main-container{
+    width: 100vw;
+    background: #000001;
+    background: linear-gradient(92deg, rgba(0, 0, 1, 1) 0%, rgba(10, 8, 17, 1) 23%, rgba(81, 64, 135, 1) 61%, rgba(32, 25, 53, 1) 87%);
+}
